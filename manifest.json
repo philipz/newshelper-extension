@@ -1,11 +1,12 @@
 {
   "manifest_version": 2,
 
-  "name": "新聞小幫手",
-  "description": "協助您判別含有誤導資訊的新聞",
-  "version": "1.0.6.8",
+  "name": "自主心跳管理",
+  "description": "協助量測心跳紀錄個人健康狀況",
+  "version": "0.0.1",
 
   "permissions": [
+    "activeTab",
     "notifications",
     "http://newshelper.g0v.tw/*",
     "https://www.facebook.com/*",
